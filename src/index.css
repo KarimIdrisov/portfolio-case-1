@@ -1,11 +1,27 @@
 body {
+  white-space: pre-line;
   margin: 0;
   font-family:  'Montserrat',sans-serif;
   -webkit-font-smoothing: antialiased;
   -moz-osx-font-smoothing: grayscale;
+  overflow-x: hidden;
+
+  background-color: var(--background-color);
 }
 
 code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
+}
+
+:root {
+  --background-color: #0E1314;
+  --text-color: #EBE7E5;
+  --button-bg-color: #4FFFCA;
+  --title-color: rgba(20, 30, 30, 1);
+  --green-background-color: rgba(56, 92, 95, 0.3);
+  --button-text-color: #192227;
+  --white: #fff;
+  --black: #000;
+  --gray: #B7B8B9;
 }

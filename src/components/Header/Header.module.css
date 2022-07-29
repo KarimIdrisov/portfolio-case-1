@@ -1,0 +1,36 @@
+.header {
+    max-width: 1142px;
+    margin: 0 auto;
+    padding-top: 44px;
+
+    display: grid;
+    grid-template-columns: 1fr auto;
+    align-items: center;
+
+    text-transform: uppercase;
+}
+
+.login {
+    cursor: pointer;
+    padding-right: 10px;
+    border-right: 1px solid var(--gray);
+}
+
+.registration {
+    cursor: pointer;
+    padding-left: 10px;
+    color: var(--button-bg-color);
+    padding-right: 42px;
+}
+
+.lang {
+    cursor: pointer;
+}
+
+.buttons {
+    color: var(--white);
+    opacity: 0.7;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}

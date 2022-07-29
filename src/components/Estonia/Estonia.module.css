@@ -1,0 +1,49 @@
+.section {
+    position: relative;
+    height: 563px;
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    background-color: rgba(22, 32, 39, 1);
+    padding-left: 50%;
+    padding-right: 15%;
+}
+
+.text {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+
+    font-weight: 400;
+    font-size: 26px;
+    line-height: 115%;
+    color: var(--white);
+    gap: 90px;
+}
+
+.flag {
+    overflow: hidden;
+    position: absolute;
+    top: -193px;
+    left: 0;
+}
+
+.button {
+    grid-area: btn;
+
+    border: none;
+    width: 181px;
+    height: 44px;
+    left: 795px;
+    top: 502px;
+
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+
+    color: var(--button-text-color);
+    background: var(--button-bg-color);
+    border-radius: 10px;
+}

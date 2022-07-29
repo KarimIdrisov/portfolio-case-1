@@ -1,0 +1,67 @@
+.section {
+    max-width: 1229px;
+    margin: 0 auto;
+    position: relative;
+    height: 745px;
+
+    display: flex;
+    padding-left: 200px;
+    padding-top: 20px;
+    align-items: center;
+}
+
+.zero {
+    position: absolute;
+    top: 25%;
+    left: 0;
+}
+
+.rocket {
+    position: absolute;
+    top: 0;
+    right: -20%;
+    overflow: hidden;
+}
+
+.text {
+    z-index: 1;
+    display: grid;
+    grid-template-areas: 'percent deposit'
+                         'percent btn';
+}
+
+.percent {
+    grid-area: percent;
+    color: var(--button-bg-color);
+    font-weight: 700;
+    font-size: 255px;
+    line-height: 180px;
+}
+
+.deposit {
+    grid-area: deposit;
+    font-weight: 700;
+    font-size: 52px;
+    line-height: 63px;
+    text-transform: uppercase;
+
+    color: var(--text-color);
+}
+
+.button {
+    grid-area: btn;
+    border: none;
+    width: 181px;
+    height: 44px;
+    left: 795px;
+    top: 502px;
+
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+
+    color: var(--button-text-color);
+    background: var(--button-bg-color);
+    border-radius: 10px;
+}
