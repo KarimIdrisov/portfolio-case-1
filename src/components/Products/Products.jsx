@@ -10,8 +10,6 @@ import {ReactComponent as ExchangerIcon } from "../../assets/images/exchanger.sv
 import {ReactComponent as AffilateIcon } from "../../assets/images/affilation.svg";
 import {ReactComponent as Logo} from "../../assets/images/logo.svg";
 
-import Deposit from '../../assets/images/zeroPercent_bg.png';
-
 export const Products = () => {
 
     const { t } = useTranslation();
@@ -72,23 +70,6 @@ export const Products = () => {
                         ))
                     }
                 </div>
-            </div>
-
-            <div className={styles.banner}>
-                <span className={styles.bannerTitle}>{t('bitcoin.title')}</span>
-
-                <span>{t('bitcoin.desc')}</span>
-
-                <span className={styles.partner}>{t('bitcoin.partner')}</span>
-
-                <button className={styles.bannerButton}>{t('bitcoin.registration')}</button>
-            </div>
-
-            <div className={styles.deposit}>
-                <img className={styles.depositImage} src={Deposit} alt='' />
-
-                <span className={styles.percent}>0%</span>
-                <span className={styles.depositText}>{t('bitcoin.deposit')}</span>
             </div>
         </div>
     )

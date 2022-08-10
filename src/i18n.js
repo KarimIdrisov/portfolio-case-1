@@ -57,18 +57,18 @@ const resources = {
         desc: "UNI Stex is a convenient trading platform with natural and contact trading instruments,\n with help, you can easily trade and exchange cryptocurrency, \n and also convert it to fiat.",
         partner: " The main partner in Moldova is BPay",
         registration: "registration",
-        deposit: "deposit fee",
-        but: "buy bitcoin",
+        deposit: "deposit\nfee",
+        buy: "buy bitcoin",
       },
       exchange: {
-        title: "ADJUSTABLE EXCHANGE",
-        advantages: [
-          "MODERN TRADING TERMINAL",
-          "0% DEPOSIT FEES",
-          "MULTILEVEL REFERRAL PROGRAM",
-          "FAST CRYPTOCURRENCY EXCHANGE WITHOUT REGISTRATION",
-          "27/7 SUPPORT",
-        ],
+        title: "ADJUSTABLE\nEXCHANGE",
+        advantages: {
+          terminal: "MODERN TRADING TERMINAL",
+          deposit: "0% DEPOSIT FEES",
+          program: "MULTILEVEL REFERRAL PROGRAM",
+          exchange: "FAST CRYPTOCURRENCY \nEXCHANGE WITHOUT REGISTRATION",
+          support: "27/7 SUPPORT",
+        },
         trading: "trading",
       },
       trade: {
@@ -138,7 +138,7 @@ const resources = {
         patrner: "Основным партнером по Молдавии является компания BPay",
         registration: "ЗАРЕГИСТРИРОВАТЬСЯ",
         deposit: "на ввод средств ",
-        but: "КУПИТЬ BITCOIN",
+        buy: "КУПИТЬ BITCOIN",
       },
       exchange: {
         title: "Регулируемая криптовалютная биржа",

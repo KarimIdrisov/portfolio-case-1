@@ -1,0 +1,54 @@
+.exchange {
+    background: linear-gradient(205.95deg, #192227 7.22%, #192227 69.88%);
+    position: relative;
+    height: 656px;
+}
+
+.exchangeBg {
+    position: absolute;
+    right: 0;
+    top: 0;
+    bottom: 0;
+}
+
+.content {
+    max-width: 1440px;
+    margin: 0 auto;
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.title {
+    font-weight: 700;
+    font-size: 55px;
+    line-height: 59px;
+
+    text-transform: uppercase;
+
+    color: var(--button-bg-color);
+}
+
+.item {
+    font-weight: 400;
+    font-size: 22px;
+    line-height: 27px;
+    text-transform: uppercase;
+
+    color: var(--text-color);
+    margin-bottom: 6px;
+}
+
+.button {
+    width: 322px;
+    height: 58px;
+    margin-top: 70px;
+
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 17px;
+    text-transform: uppercase;
+    color: var(--button-text-color);
+
+    background: var(--button-bg-color);
+    border-radius: 10px;
+}
