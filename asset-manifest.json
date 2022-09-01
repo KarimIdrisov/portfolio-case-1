@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/portfolio-case-1/static/css/main.74260414.css",
-    "main.js": "/portfolio-case-1/static/js/main.5f5fbddc.js",
+    "main.css": "/portfolio-case-1/static/css/main.70a853ed.css",
+    "main.js": "/portfolio-case-1/static/js/main.9bb492a0.js",
     "static/media/flag.png": "/portfolio-case-1/static/media/flag.998558c66ac3fe085128.png",
     "static/media/rocket.png": "/portfolio-case-1/static/media/rocket.7d8cee5ae3b864906b7d.png",
     "static/media/zeroPercent_bg.png": "/portfolio-case-1/static/media/zeroPercent_bg.0d30d7695fded9395509.png",
     "static/media/exchangeBg.png": "/portfolio-case-1/static/media/exchangeBg.cfedc0239080a12c7563.png",
     "static/media/partners.png": "/portfolio-case-1/static/media/partners.e16453fe6a04c6c96916.png",
     "static/media/zeroPercent.png": "/portfolio-case-1/static/media/zeroPercent.0be51611348c873486e4.png",
-    "static/media/logo.svg": "/portfolio-case-1/static/media/logo.06b16ab44c798a4bbe1fb821ba0ef524.svg",
-    "static/media/affilation.svg": "/portfolio-case-1/static/media/affilation.100dc5190cef73bc099e06df94c74edb.svg",
-    "static/media/spot.svg": "/portfolio-case-1/static/media/spot.18f78df7fbc1af688f7c228a2a5de344.svg",
-    "static/media/exchanger.svg": "/portfolio-case-1/static/media/exchanger.b017c136852ef1461405712485ee68d6.svg",
-    "static/media/change.svg": "/portfolio-case-1/static/media/change.963f53f8f6e150305b5981ab289bcc4c.svg",
-    "static/media/wallet.svg": "/portfolio-case-1/static/media/wallet.73eccab8e466b59856fc7b15934f0f6b.svg",
+    "static/media/logo.svg": "/portfolio-case-1/static/media/logo.4c82b85f4fb3e55b8c3c11b4aea11577.svg",
+    "static/media/affilation.svg": "/portfolio-case-1/static/media/affilation.a31e8f724f3249e49a7da84ac9a92fbe.svg",
+    "static/media/spot.svg": "/portfolio-case-1/static/media/spot.28770bb5c418fa0fa5124b450487d69e.svg",
+    "static/media/exchanger.svg": "/portfolio-case-1/static/media/exchanger.2cef4038df90c57a4508cd995a9d3413.svg",
+    "static/media/change.svg": "/portfolio-case-1/static/media/change.108a4f1bb205aa3a937cb049014685e3.svg",
+    "static/media/wallet.svg": "/portfolio-case-1/static/media/wallet.49b86523457292c4b43e951c9b1692f4.svg",
     "index.html": "/portfolio-case-1/index.html",
-    "main.74260414.css.map": "/portfolio-case-1/static/css/main.74260414.css.map",
-    "main.5f5fbddc.js.map": "/portfolio-case-1/static/js/main.5f5fbddc.js.map"
+    "main.70a853ed.css.map": "/portfolio-case-1/static/css/main.70a853ed.css.map",
+    "main.9bb492a0.js.map": "/portfolio-case-1/static/js/main.9bb492a0.js.map"
   },
   "entrypoints": [
-    "static/css/main.74260414.css",
-    "static/js/main.5f5fbddc.js"
+    "static/css/main.70a853ed.css",
+    "static/js/main.9bb492a0.js"
   ]
 }
